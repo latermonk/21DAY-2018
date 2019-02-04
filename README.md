@@ -3,6 +3,8 @@
 ##  2018华为云上的21天   
 
 ###  大数据入门21天：
+https://github.com/latermonk/bigdata-21day
+
 
 ###  大数据进阶21天：
 https://github.com/latermonk/BIGDATA_21DAY
