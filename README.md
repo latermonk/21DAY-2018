@@ -2,6 +2,9 @@
 
 在成为云计算专家之前，我觉得我会成为 华为云21天训练营专家，华为云2018年总共6期的21训练营，我参加了5期。
 
+![](https://raw.githubusercontent.com/latermonk/21DAY-2018/master/images/01.png)
+![](https://raw.githubusercontent.com/latermonk/21DAY-2018/master/images/02.png)
+
 
 
 ##  2018华为云上的21天   
